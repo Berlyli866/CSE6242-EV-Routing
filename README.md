@@ -7,7 +7,7 @@ python 3.7
 
 ### installed packages 
 import networkx \
-import gdal \
+import gdal 
 
 ### data
 Crime data for Atlanta area in the past 5 years with locations \
