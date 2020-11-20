@@ -1,0 +1,12 @@
+,name,max_speed_mph,min_speed_mph
+0,motorway,70,50
+1,motorway_link,65,20
+2,primary,55,25
+3,primary_link,45,25
+4,secondary,55,15
+5,secondary_link,45,35
+6,tertiary,45,25
+7,tertiary_link,35,30
+8,trunk,55,30
+9,trunk_link,55,25
+10,unclassified,40,5
